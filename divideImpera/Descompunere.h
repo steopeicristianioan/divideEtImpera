@@ -19,24 +19,24 @@ public:
 
 	void descompunere(int a, int b, int k, int nr_fig) {
 		bool ok = false;
-		if (a != 1 && b != 1) {
-			if (a > (b - a) && b > a) {
+		if (a != 1 && b != 1) { //daca o dimensiune este 1 => nedecompozabil
+			if (a > (b - a) && b > a) { //verificare criterii pt descompunerea de tip #1
 				ok = true;
 				x[k] = a;
 				x[k + 1] = b - a;
 				descompunere(a - (b - a), b - a, k + 2, nr_fig + 2);
 			}
-			if (b > (a / 2)) {
+			if (b > (a / 2)) { //verificare criterii pt decompunerea de tip #2
 				ok = true;
 				x[k] = a / 2;
 				descompunere(a, b - (a / 2), k + 1, nr_fig + 2);
 			}
 		}
-		if (!ok) {
-			if (nr_fig < nrMin) {
+		if (!ok) { //daca am ajuns la o figura nedecompozabila
+			if (nr_fig < nrMin) { //verific daca numarul de figuri utilizat este minim
 				nrMin = nr_fig;
 				l = k;
-				for (int i = 1; i < k; i++)
+				for (int i = 1; i < k; i++) //actualizez descompunerea cea mai optima
 					res[i] = x[i];
 				aFin = a;
 				bFin = b;
