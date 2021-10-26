@@ -30,6 +30,24 @@
     <ClCompile Include="Taieturi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Descompunere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TowerOfHanoi.h">
@@ -42,6 +60,24 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Taieturi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Descompunere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb7.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

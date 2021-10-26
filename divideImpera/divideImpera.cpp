@@ -3,9 +3,13 @@
 #include "PlieriCuScadere.h"
 #include "Taieturi.h"
 #include "Descompunere.h"
+#include "Pb3.h"
+#include "Pb5.h"
+#include "Pb6.h"
+#include "Pb7.h"
 
 int main()
 {
-    Descompunere d;
-    d.solve();
+    Pb7 p;
+    p.solve();
 }
