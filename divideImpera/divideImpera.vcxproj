@@ -139,14 +139,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="Descompunere.cpp" />
     <ClCompile Include="divideImpera.cpp" />
+    <ClCompile Include="KthMin.cpp" />
     <ClCompile Include="Pb10.cpp" />
+    <ClCompile Include="Pb1015.cpp" />
+    <ClCompile Include="Pb1017.cpp" />
+    <ClCompile Include="Pb1018.cpp" />
+    <ClCompile Include="Pb1019.cpp" />
+    <ClCompile Include="Pb1020.cpp" />
+    <ClCompile Include="Pb1023.cpp" />
     <ClCompile Include="Pb11.cpp" />
+    <ClCompile Include="Pb1148.cpp" />
+    <ClCompile Include="Pb1149.cpp" />
+    <ClCompile Include="Pb1150.cpp" />
+    <ClCompile Include="Pb1151.cpp" />
+    <ClCompile Include="Pb1152.cpp" />
+    <ClCompile Include="Pb1153.cpp" />
+    <ClCompile Include="Pb1154.cpp" />
     <ClCompile Include="Pb12.cpp" />
+    <ClCompile Include="Pb1229.cpp" />
     <ClCompile Include="Pb13.cpp" />
     <ClCompile Include="Pb14.cpp" />
+    <ClCompile Include="Pb1865.cpp" />
     <ClCompile Include="Pb3.cpp" />
+    <ClCompile Include="Pb3165.cpp" />
+    <ClCompile Include="Pb3260.cpp" />
     <ClCompile Include="Pb4.cpp" />
     <ClCompile Include="Pb5.cpp" />
     <ClCompile Include="Pb6.cpp" />
@@ -154,17 +173,37 @@
     <ClCompile Include="Pb9.cpp" />
     <ClCompile Include="Plieri.cpp" />
     <ClCompile Include="PlieriCuScadere.cpp" />
+    <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="Taieturi.cpp" />
     <ClCompile Include="TowerOfHanoi.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="Descompunere.h" />
+    <ClInclude Include="KthMin.h" />
     <ClInclude Include="Pb10.h" />
+    <ClInclude Include="Pb1015.h" />
+    <ClInclude Include="Pb1017.h" />
+    <ClInclude Include="Pb1018.h" />
+    <ClInclude Include="Pb1019.h" />
+    <ClInclude Include="Pb1020.h" />
+    <ClInclude Include="Pb1023.h" />
     <ClInclude Include="Pb11.h" />
+    <ClInclude Include="Pb1148.h" />
+    <ClInclude Include="Pb1149.h" />
+    <ClInclude Include="Pb1150.h" />
+    <ClInclude Include="Pb1151.h" />
+    <ClInclude Include="Pb1152.h" />
+    <ClInclude Include="Pb1153.h" />
+    <ClInclude Include="Pb1154.h" />
     <ClInclude Include="Pb12.h" />
+    <ClInclude Include="Pb1229.h" />
     <ClInclude Include="Pb13.h" />
     <ClInclude Include="Pb14.h" />
+    <ClInclude Include="Pb1865.h" />
     <ClInclude Include="Pb3.h" />
+    <ClInclude Include="Pb3165.h" />
+    <ClInclude Include="Pb3260.h" />
     <ClInclude Include="Pb4.h" />
     <ClInclude Include="Pb5.h" />
     <ClInclude Include="Pb6.h" />
@@ -172,6 +211,7 @@
     <ClInclude Include="Pb9.h" />
     <ClInclude Include="Plieri.h" />
     <ClInclude Include="PlieriCuScadere.h" />
+    <ClInclude Include="QuickSort.h" />
     <ClInclude Include="Taieturi.h" />
     <ClInclude Include="TowerOfHanoi.h" />
   </ItemGroup>
