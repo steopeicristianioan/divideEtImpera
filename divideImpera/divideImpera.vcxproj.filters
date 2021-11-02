@@ -126,6 +126,12 @@
     <ClCompile Include="Pb1023.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pb2525.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb1157.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TowerOfHanoi.h">
@@ -234,6 +240,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Pb1023.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb2525.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb1157.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

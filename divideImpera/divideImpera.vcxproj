@@ -158,11 +158,13 @@
     <ClCompile Include="Pb1152.cpp" />
     <ClCompile Include="Pb1153.cpp" />
     <ClCompile Include="Pb1154.cpp" />
+    <ClCompile Include="Pb1157.cpp" />
     <ClCompile Include="Pb12.cpp" />
     <ClCompile Include="Pb1229.cpp" />
     <ClCompile Include="Pb13.cpp" />
     <ClCompile Include="Pb14.cpp" />
     <ClCompile Include="Pb1865.cpp" />
+    <ClCompile Include="Pb2525.cpp" />
     <ClCompile Include="Pb3.cpp" />
     <ClCompile Include="Pb3165.cpp" />
     <ClCompile Include="Pb3260.cpp" />
@@ -196,11 +198,13 @@
     <ClInclude Include="Pb1152.h" />
     <ClInclude Include="Pb1153.h" />
     <ClInclude Include="Pb1154.h" />
+    <ClInclude Include="Pb1157.h" />
     <ClInclude Include="Pb12.h" />
     <ClInclude Include="Pb1229.h" />
     <ClInclude Include="Pb13.h" />
     <ClInclude Include="Pb14.h" />
     <ClInclude Include="Pb1865.h" />
+    <ClInclude Include="Pb2525.h" />
     <ClInclude Include="Pb3.h" />
     <ClInclude Include="Pb3165.h" />
     <ClInclude Include="Pb3260.h" />
