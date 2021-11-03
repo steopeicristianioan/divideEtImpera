@@ -165,9 +165,12 @@
     <ClCompile Include="Pb14.cpp" />
     <ClCompile Include="Pb1865.cpp" />
     <ClCompile Include="Pb2525.cpp" />
+    <ClCompile Include="Pb2720.cpp" />
     <ClCompile Include="Pb3.cpp" />
     <ClCompile Include="Pb3165.cpp" />
+    <ClCompile Include="Pb3206.cpp" />
     <ClCompile Include="Pb3260.cpp" />
+    <ClCompile Include="Pb3490.cpp" />
     <ClCompile Include="Pb4.cpp" />
     <ClCompile Include="Pb5.cpp" />
     <ClCompile Include="Pb6.cpp" />
@@ -205,9 +208,12 @@
     <ClInclude Include="Pb14.h" />
     <ClInclude Include="Pb1865.h" />
     <ClInclude Include="Pb2525.h" />
+    <ClInclude Include="Pb2720.h" />
     <ClInclude Include="Pb3.h" />
     <ClInclude Include="Pb3165.h" />
+    <ClInclude Include="Pb3206.h" />
     <ClInclude Include="Pb3260.h" />
+    <ClInclude Include="Pb3490.h" />
     <ClInclude Include="Pb4.h" />
     <ClInclude Include="Pb5.h" />
     <ClInclude Include="Pb6.h" />
